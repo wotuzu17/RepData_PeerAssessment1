@@ -1,4 +1,8 @@
-# Reproducible Research: Peer Assessment 1
+---
+title: "Reproducible Research: Peer Assessment 1"
+author: "wotuzu17"
+date: '2014-08-16'
+---
 
 ## Loading and preprocessing the data
 It is assumed that the zip-file from the course web site is located in the current working directory of the script. The csv is extracted from the zip file and read into a data.frame in one line of code. The interval column of the resulting data.frame is transformed into a 4-letter character string with leading zeros.
